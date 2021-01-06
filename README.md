@@ -1,4 +1,4 @@
-# Social Interests Monetizer
+# Social DevEngine Monetizer
 
 natural collaboration engine / social monetization protocol - PoC
 
